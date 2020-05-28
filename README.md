@@ -10,4 +10,4 @@ Diagramas generados en Lucidchart
 
 **Diagrama de clases**
 
-![No se encontro la imagen](https://github.com/DanielAlejandroRoaPalacios/Analisis_Cajero/blob/master/Diagrama.png)
+![No se encontro la imagen](https://github.com/DanielAlejandroRoaPalacios/Analisis_Cajero/blob/master/clases_cajero.png)
