@@ -4,10 +4,10 @@
 
 Diagramas generados en Lucidchart
 
-** Diagrama de casos de uso **
+**Diagrama de casos de uso**
 
-![No se encontro la imagen](https://github.com/DanielAlejandroRoaPalacios/Caso_de_uso_cajero/blob/master/Diagrama.png)
+![No se encontro la imagen](https://github.com/DanielAlejandroRoaPalacios/Analisis_Cajero/blob/master/Diagrama.png)
 
-** Diagrama de clases **
+**Diagrama de clases**
 
-![No se encontro la imagen](https://github.com/DanielAlejandroRoaPalacios/Caso_de_uso_cajero/blob/master/Diagrama.png)
+![No se encontro la imagen](https://github.com/DanielAlejandroRoaPalacios/Analisis_Cajero/blob/master/Diagrama.png)
